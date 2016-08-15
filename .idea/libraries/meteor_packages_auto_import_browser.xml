@@ -2,8 +2,30 @@
   <library name="meteor-packages-auto-import-browser" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/es.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/ca.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/fa.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/zh-TW.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/hu.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/sv.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/sk.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/nl.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/ru.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/ko.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/pl.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/vi.i18n.js" />
         <item url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.6.5/web.browser/modules-runtime.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/el.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/pt-PT.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/fr.i18n.js" />
         <item url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.6.5/web.browser/.npm/package/node_modules/install/install.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/fi.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/he.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/uk.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/it.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/sr-Cyrl.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/en.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/zh-CN.i18n.js" />
         <item url="file://$USER_HOME$/.meteor/packages/localstorage/1.0.11/web.browser/localstorage.js" />
         <item url="file://$USER_HOME$/.meteor/packages/reactive-dict/1.1.8/web.browser/reactive-dict-tests.js" />
         <item url="file://$USER_HOME$/.meteor/packages/reactive-dict/1.1.8/web.browser/migration.js" />
@@ -40,6 +62,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/launch-screen/1.0.12/web.browser/mobile-launch-screen.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/attrs.js" />
         <item url="file://$USER_HOME$/.meteor/packages/observe-sequence/1.0.12/web.browser/observe_sequence.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/anti_i18n/0.4.3/web.browser/packages/anti:i18n.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/backcompat.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/events.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/lookup.js" />
@@ -194,12 +217,50 @@
         <item url="file://$USER_HOME$/.meteor/packages/iron_controller/1.0.12/web.browser/lib/wait_list.js" />
         <item url="file://$USER_HOME$/.meteor/packages/iron_controller/1.0.12/web.browser/lib/controller_client.js" />
         <item url="file://$USER_HOME$/.meteor/packages/iron_controller/1.0.12/web.browser/lib/controller.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/login_buttons.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/login_buttons_single.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/accounts_ui.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/login_buttons_dialogs.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/login_buttons_dropdown.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/login_buttons_session.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/ja.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/be.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/pt.i18n.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp-hashing/1.0.9/web.browser/webapp-hashing.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/sr.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/ar.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/zh.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/pt-BR.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/de.i18n.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/sr-Latn.i18n.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/es.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/ca.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/fa.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/zh-TW.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/hu.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/sv.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/sk.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/nl.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/ru.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/ko.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/pl.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/vi.i18n.js" />
       <root url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.6.5/web.browser/modules-runtime.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/el.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/pt-PT.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/fr.i18n.js" />
       <root url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.6.5/web.browser/.npm/package/node_modules/install/install.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/fi.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/he.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/uk.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/it.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/sr-Cyrl.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/en.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/zh-CN.i18n.js" />
       <root url="file://$USER_HOME$/.meteor/packages/localstorage/1.0.11/web.browser/localstorage.js" />
       <root url="file://$USER_HOME$/.meteor/packages/reactive-dict/1.1.8/web.browser/reactive-dict-tests.js" />
       <root url="file://$USER_HOME$/.meteor/packages/reactive-dict/1.1.8/web.browser/migration.js" />
@@ -236,6 +297,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/launch-screen/1.0.12/web.browser/mobile-launch-screen.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/attrs.js" />
       <root url="file://$USER_HOME$/.meteor/packages/observe-sequence/1.0.12/web.browser/observe_sequence.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/anti_i18n/0.4.3/web.browser/packages/anti:i18n.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/backcompat.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/events.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/lookup.js" />
@@ -390,7 +452,23 @@
       <root url="file://$USER_HOME$/.meteor/packages/iron_controller/1.0.12/web.browser/lib/wait_list.js" />
       <root url="file://$USER_HOME$/.meteor/packages/iron_controller/1.0.12/web.browser/lib/controller_client.js" />
       <root url="file://$USER_HOME$/.meteor/packages/iron_controller/1.0.12/web.browser/lib/controller.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/login_buttons.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/login_buttons_single.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/accounts_ui.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/login_buttons_dialogs.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/login_buttons_dropdown.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/login_buttons_session.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/ja.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/be.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/pt.i18n.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp-hashing/1.0.9/web.browser/webapp-hashing.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/sr.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/ar.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/zh.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/pt-BR.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/de.i18n.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/ian_accounts-ui-bootstrap-3/1.2.89/web.browser/i18n/sr-Latn.i18n.js" />
     </CLASSES>
     <SOURCES />
   </library>
